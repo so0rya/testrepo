@@ -1,2 +1,4 @@
 Git init => initialise git in any given location
 Git status => list all untracked files
+Git add => to add the file to SA (git -A)
+Git commit => to add the file to local repository (git -m "message")
