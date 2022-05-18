@@ -1,0 +1,2 @@
+Git init => initialise git in any given location
+Git status => list all untracked files
